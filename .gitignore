@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+nikto_result.txt
+*.nessus
+*.xml
+*.gnmap
+*.nmap
+private-evidence/
